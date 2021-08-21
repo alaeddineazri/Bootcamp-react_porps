@@ -37,7 +37,6 @@ Profilecomp.defaultProps = {
     fullName: propTypes.string,
     bio: propTypes.string,
     profession: propTypes.string,
-    onHandleName: propTypes.func,
-    children: propTypes.element
+    onHandleName: propTypes.func
   };
 export default Profilecomp;
